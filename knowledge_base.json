@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Productivity Techniques",
+    "title": "Pomodoro Technique",
+    "content": "The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a \"pomodoro\", the Italian word for tomato, after the tomato-shaped kitchen timer Cirillo used as a university student.\n\nKey steps:\n1. Choose a task to work on\n2. Set the timer for 25 minutes\n3. Work on the task until the timer rings\n4. Take a short 5-minute break\n5. After four pomodoros, take a longer break (15-30 minutes)\n\nBenefits:\n- Improved focus and concentration\n- Reduced mental fatigue\n- Better time management\n- Increased productivity\n- Clear work/break boundaries"
+  },
+  {
+    "category": "Productivity Techniques",
+    "title": "Time Blocking",
+    "content": "Time blocking is a productivity method where you divide your day into blocks of time. Each block is dedicated to accomplishing a specific task or group of tasks.\n\nHow to implement:\n1. Review your tasks and priorities\n2. Estimate time needed for each task\n3. Create blocks in your calendar\n4. Include buffer time between blocks\n5. Stick to the schedule\n\nBenefits:\n- Better focus on important tasks\n- Reduced context switching\n- Clear daily structure\n- Improved work-life balance\n- More realistic time estimates"
+  },
+  {
+    "category": "Mindfulness",
+    "title": "Basic Meditation",
+    "content": "Meditation is a practice where an individual uses a technique to train attention and awareness, achieving a mentally clear and emotionally calm state.\n\nSimple meditation steps:\n1. Find a quiet, comfortable space\n2. Sit in a comfortable position\n3. Close your eyes\n4. Focus on your breath\n5. When your mind wanders, gently bring it back to your breath\n6. Start with 5 minutes and gradually increase\n\nBenefits:\n- Reduced stress and anxiety\n- Improved focus and concentration\n- Better emotional regulation\n- Increased self-awareness\n- Better sleep quality"
+  },
+  {
+    "category": "Stress Management",
+    "title": "Deep Breathing Exercise",
+    "content": "Deep breathing is a simple but effective way to reduce stress and anxiety. It helps activate the body's relaxation response.\n\n4-7-8 Breathing Technique:\n1. Inhale quietly through your nose for 4 seconds\n2. Hold your breath for 7 seconds\n3. Exhale completely through your mouth for 8 seconds\n4. Repeat 4 times\n\nBenefits:\n- Immediate stress relief\n- Lower blood pressure\n- Reduced anxiety\n- Better oxygen flow\n- Improved focus"
+  },
+  {
+    "category": "Work-Life Balance",
+    "title": "Setting Boundaries",
+    "content": "Setting healthy boundaries is crucial for maintaining work-life balance and preventing burnout.\n\nKey strategies:\n1. Define clear work hours\n2. Learn to say no\n3. Take regular breaks\n4. Separate work and personal spaces\n5. Set communication expectations\n6. Prioritize self-care\n\nBenefits:\n- Reduced stress\n- Better relationships\n- Increased productivity\n- Improved mental health\n- More time for personal life"
+  }
+]
